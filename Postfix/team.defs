@@ -1,0 +1,17 @@
+#Wed Apr 03 13:26:05 PDT 2019
+bluej.teamsettings.groupname=
+bluej.teamsettings.git.repositoryPrefix=/dlilienthal/postfix.git
+bluej.teamsettings.git.protocol=https
+bluej.teamsettings.user=dlilienthal
+bluej.teamsettings.git.server=bitbucket.org
+bluej.teamsettings.yourEmail=dlilienthal.student@sierracollege.edu
+bluej.teamsettings.vcs=git
+bluej.teamsettings.ignore8=\\.DS_Store
+bluej.teamsettings.yourName=Derek Lilienthal
+bluej.teamsettings.ignore7=.*\\\#backup
+bluej.teamsettings.ignore6=.*\\\#
+bluej.teamsettings.ignore5=.*\\~
+bluej.teamsettings.ignore4=.*\\.ctxt
+bluej.teamsettings.ignore3=team\\.defs
+bluej.teamsettings.ignore2=bluej\\.pkh
+bluej.teamsettings.ignore1=.*\\.class
